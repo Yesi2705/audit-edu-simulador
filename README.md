@@ -28,7 +28,7 @@ En República Dominicana falta educación financiera accesible para estudiantes.
 2. pip install -r requirements.txt
 3. streamlit run app.py
 4. Se abre en http://localhost:8501
-5. Despliegue Web: https://audit-edu-simulador.streamlit.app (agregar cuando se despliegue)
+5. Despliegue Web:https://audit-edu-simulador-ihrhw3yuwq4gdntkqyyebs.streamlit.app/ 
 
 ## 7. Video de Sustentación - Paso 7
 Video 3 minutos: [Pegar aquí link de YouTube]
